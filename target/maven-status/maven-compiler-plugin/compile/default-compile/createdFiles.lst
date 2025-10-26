@@ -1,0 +1,6 @@
+com\example\student_management\config\SwaggerConfig.class
+com\example\student_management\Controller\StudentController.class
+com\example\student_management\Service\StudentService.class
+com\example\student_management\entity\Student.class
+com\example\student_management\repository\StudentRepository.class
+com\example\student_management\StudentManagementApplication.class
