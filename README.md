@@ -2,7 +2,7 @@
 
 Application Spring Boot pour la gestion des étudiants avec API REST et documentation Swagger.
 
-![Démonstration](./assets/video.mp4)
+![Démonstration](./assets/demo.gif)
 
 ### 1️⃣ Créer la base de données
 ```sql
